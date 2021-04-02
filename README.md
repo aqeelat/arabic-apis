@@ -1,9 +1,5 @@
 # Arabic APIs | واجهات البرمجة العربية
-A collective list of Arabic APIs
-
 قائمة تشاركية لجمع الواجهات البرمجية العربية في مكان واحد
-
-### [The English Version](ENGLISH.md)
 
 - هذه الفكرة مستوحاه من مشروع [Public Apis](https://github.com/public-apis/public-apis)
 - أرجو منك المشاركة في اضافة الواجهات إلى هذه القائمة، سواء بمشاركة واجهات تعرفها، أو بإنشاء واجهات جديدة لملئ الفراغ التقني العربي.
@@ -11,8 +7,14 @@ A collective list of Arabic APIs
 
 ## الفهرس
 * [المعالجة اللغوية](#المعالجة-اللغوية)
+* [الحكومات](#الحكومات)
 
 ### المعالجة اللغوية
-الواجهة | الشرح | السعر | Auth | HTTPS | CORS |
+الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
-| [موضوع](https://ai.mawdoo3.com/) | مدفوع | مجموعة واجهات للمعالجة اللغوية | ApiKey | نعم | غير معلوم |
+| [موضوع](https://ai.mawdoo3.com/) | مجموعة واجهات للمعالجة اللغوية | :negative_squared_cross_mark: | ApiKey | :white_check_mark: | غير معلوم |
+
+### الحكومات
+الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
+|---|---|---|---|---|---|
+| [البريد السعودي](https://api.address.gov.sa/) | البحث عن العناوين الوطنية السعودية والتحقق منها | :white_check_mark: | ApiKey | :white_check_mark: | غير معلوم |
