@@ -16,6 +16,7 @@
 الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
 | [موضوع](https://ai.mawdoo3.com/) | مجموعة واجهات للمعالجة اللغوية | :negative_squared_cross_mark: | ApiKey | :white_check_mark: | غير معلوم |
+| [موزون](https://موزون.com/api/) | مجموعة واجهات للمعالجة اللغوية | :white_check_mark: | ApiKey | :white_check_mark: | غير معلوم |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
