@@ -15,8 +15,8 @@
 ### المعالجة اللغوية
 الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
-| [موضوع](https://ai.mawdoo3.com/) | مجموعة واجهات للمعالجة اللغوية | :negative_squared_cross_mark: | ApiKey | :white_check_mark: | غير معلوم |
-| [موزون](https://موزون.com/api/) | مجموعة واجهات للمعالجة اللغوية | :white_check_mark: | ApiKey | :white_check_mark: | غير معلوم |
+| [موضوع](https://ai.mawdoo3.com/) | مجموعة واجهات للمعالجة اللغوية | :negative_squared_cross_mark: | ApiKey | :white_check_mark: | :white_check_mark: |
+| [موزون](https://موزون.com/api/) | مجموعة واجهات للمعالجة اللغوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
