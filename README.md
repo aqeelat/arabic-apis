@@ -40,7 +40,7 @@
 | [mp3quran](https://www.mp3quran.net/api/) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [الفانوس](https://www.alfanous.org/api-doc/) | محرك بحث للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [أوقات الصلاة](https://awkat-salat.org/api) | أوقات الصلاة حول العالم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
-| [خدمة واجهة الموسوعة الحديثية من الدرر السنية](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API) |خدمة واجهة الموسوعة الحديثية من الدرر السنية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: |
+| [خدمة واجهة الموسوعة الحديثية من الدرر السنية](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API) |خدمة واجهة الموسوعة الحديثية من الدرر السنية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | لا أعرف
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
