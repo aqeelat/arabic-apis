@@ -73,5 +73,6 @@
 |---|---|---|---|---|---|
 | [تفقيط](https://rapidapi.com/postscripter/api/tafqit) | "تحويل الاعداد العربية إلى ما يقابلها كتابة" | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [Yamli](https://www.yamli.com/api/ar/) | أداة لكتابة اللغة العربية بدون كيبورد عربي | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [Wati](https://docs.wati.io/reference#introduction) | أداة تتيح لأكثر من موظف خدمة عملاء التواصل بنفس الوقت مع الزبائن عن طريق الواتس آب | :negative_squared_cross_mark: | OAuth2 | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
