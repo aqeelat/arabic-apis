@@ -70,8 +70,6 @@
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
-</div>
-
 ### أدوات عامة
 الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
@@ -80,3 +78,5 @@
 | [Wati](https://docs.wati.io/reference#introduction) | أداة تتيح لأكثر من موظف خدمة عملاء التواصل بنفس الوقت مع الزبائن عن طريق الواتس آب | :negative_squared_cross_mark: | OAuth2 | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
+
+</div>
