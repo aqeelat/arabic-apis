@@ -17,7 +17,8 @@
 الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
 | [موضوع](https://ai.mawdoo3.com/) | مجموعة واجهات للمعالجة اللغوية | :negative_squared_cross_mark: | ApiKey | :white_check_mark: | :white_check_mark: |
-| [موزون](https://موزون.com/api/) | مجموعة واجهات للمعالجة اللغوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [موزون](https://موزون.com/api/) | واجهة برمجية للتأكد من وزن أبيات الشعر | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [خدمة رومنة الأسماء الجغرافية](https://api.gasgi.gov.sa/) | تحويل الأسماء العربية إلى الصيغة الإنجليزية المعتمدة رسميا - [مستند الصيغة](https://api.gasgi.gov.sa/Files/Romamization%20book_AR.pdf) | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
@@ -25,6 +26,7 @@
 الواجهة | الوصف | مجاني | Auth | HTTPS | CORS |
 |---|---|---|---|---|---|
 | [البوابة السعودية للبيانات المفتوحة](https://data.gov.sa/ar/puplishers-apis) | واجهة التطبيق البرمجية الخاصة بالناشرين الذين يريدون استخدام البوابة السعودسة للبيانات المفتوحة في نشر البيانات | :negative_squared_cross_mark: | Basic HTTP | :white_check_mark: | :white_check_mark: |
+| [مكتبة البيانات المفتوحة لأمانة جدة](https://services.jeddah.gov.sa/OpenData/Default.aspx) | مكتبة مقدمة من أمانة جدة - تتطلب التسجيل | غير معلوم | غير معلوم | غير معلوم | غير معلوم |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
@@ -41,6 +43,7 @@
 | [🇸🇦 شهادات المنشأ السعودية](https://developer.wathq.sa/ar/api/9) | إمكانية الاستعلام عن بيانات شهادات المنشأ الصادرة من وزارة التجارة للبضائع المصـدرة من السعودية | :white_check_mark: | Basic HTTP | :white_check_mark: | :white_check_mark: |
 | [🇸🇦 العلامات التجارية السعودية](https://developer.wathq.sa/ar/api/10) | إمكانية معرفة بيانات وتفاصيل العلامات التجارية وحالتها وملاكها | :white_check_mark: | Basic HTTP | :white_check_mark: | :white_check_mark: |
 | [🇸🇦 السجلات التجارية عبر النفاذ التجاري الموحد](https://developer.wathq.sa/ar/api/19) | إمكانية الاستعلام عن معلومات السجل التجاري من خلال بوابة النفاذ التجاري الموحد | :white_check_mark: | Basic HTTP | :white_check_mark: | :white_check_mark: |
+| [🇦🇪 حكومة دبي](https://services.jeddah.gov.sa/OpenData/Default.aspx) | مجموعة واجهات برمجية مقدمة من حكومة دبي | :white_check_mark: | OAuth2 | :white_check_mark: | :white_check_mark: |
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
@@ -58,6 +61,11 @@
 | [الفانوس](https://www.alfanous.org/api-doc/) | محرك بحث للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [أوقات الصلاة](https://awkat-salat.org/api) | أوقات الصلاة حول العالم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [الدرر السنية](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API) | واجهة برمجية للبحث في الموسوعة العلمية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [quran.com](https://quran.api-docs.io/v3/getting-started/introduction) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [sunnah.com](https://sunnah.api-docs.io/1.0/getting-started/introduction) | واجهة برمجية للمراجع العلمية في السنة النبوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [alquran.cloud](https://alquran.cloud/api) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [أوقات الصلاة](https://awkat-salat.org/api) | أوقات الصلاة حول العالم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+
 
 **[⬆ عودة للفهرس](#الفهرس)**
 
