@@ -64,7 +64,6 @@
 | [quran.com](https://quran.api-docs.io/v3/getting-started/introduction) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [sunnah.com](https://sunnah.api-docs.io/1.0/getting-started/introduction) | واجهة برمجية للمراجع العلمية في السنة النبوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [alquran.cloud](https://alquran.cloud/api) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
-| [أوقات الصلاة](https://awkat-salat.org/api) | أوقات الصلاة حول العالم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 
 
 **[⬆ عودة للفهرس](#الفهرس)**
